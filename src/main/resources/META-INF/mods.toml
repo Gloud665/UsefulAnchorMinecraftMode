@@ -20,7 +20,7 @@ version="${file.jarVersion}" #mandatory
  # A display name for the mod
 displayName="Useful anchor mod" #mandatory
 # A text field displayed in the mod UI
-authors="Gloud" #optional
+authors="Gloud665" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This mod makes the respawn anchor more useful by saving your inventory if there are charges.
